@@ -1,2 +1,2 @@
 # Portfolio
-i developed this portfolio website on React Js
+I developed this portfolio website on React Js
